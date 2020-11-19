@@ -1,0 +1,5 @@
+userName:job85772@bcaoo.com
+password:Test12345.
+searhTerm:no-frost buzdolabı
+browser:Chrome
+--Firefox,Chrome

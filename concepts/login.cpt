@@ -1,0 +1,14 @@
+Created by FTH on 12.10.2020
+
+This is a concept file with following syntax for each concept.
+# Giris Yap email:<email>,password:<password>
+* Login Email Gir. Email:<email>
+* Login Password Gir. Password:<password>
+* Login Giris Yap buton Tikla
+* Login Error Message log txt file
+//istenirse burda genel bütün butonlarda çalışacak şekilde * Buton "Giris yap" tikla bu step kullnılabilir. Brniki türlüde ekledim
+
+# Giris Yap Hatali email:<email>,password:<password>,ErrorMessage:<errorMessage>
+* Login Email Gir. Email:<email>
+* Login Password Gir. Password:<password>
+* Login Giris Yap buton Tikla
